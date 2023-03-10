@@ -15,15 +15,6 @@
 <body>
 <center>
     <h1>User Management</h1>
-    <h2>
-        <a href="/users?action=create">Add New User</a>
-    </h2>
-    <h2>
-        <a href="/users?action=selectbycountry"> select by country</a>
-    </h2>
-    <h2>
-        <a href="/users?action=sortUser"> sort by name</a>
-    </h2>
 </center>
 <div align="center">
     <table border="1" cellpadding="5">
